@@ -1,0 +1,1 @@
+The .apk file is the final release version of the prototype, able to be run on an Android device. HapticHome contains all of the files involved in the creation of the app.
